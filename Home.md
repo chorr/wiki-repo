@@ -6,5 +6,5 @@
 ## Tip
 - [[Linux Tip]]
 - [[Mac OS X Tip]]
-- [[Linux Tip]]
+- [[Windows Tip]]
 - [[Sublime Text Tip]]
