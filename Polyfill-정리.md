@@ -1,0 +1,6 @@
+- [html5shiv](https://github.com/aFarkas/html5shiv)
+  - The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
+- [es5-shim](https://github.com/es-shims/es5-shim)
+  - `es5-shim.js` and `es5-shim.min.js` monkey-patch a JavaScript context to contain all EcmaScript 5 methods that can be faithfully emulated with a legacy JavaScript engine.
+- [console-polyfill](https://github.com/paulmillr/console-polyfill)
+  - Browser console polyfill. Makes it safe to do console.log()-s etc always.
