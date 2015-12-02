@@ -3,6 +3,9 @@
 - [Instagram](http://instagram.com/chorr)
 - [Lab.](http://lab.chorr.net)
 
+## 기술관련
+- [[Polyfill 정리]]
+
 ## Tip
 - [[Linux Tip]]
 - [[Mac OS X Tip]]
