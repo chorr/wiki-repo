@@ -1,6 +1,5 @@
 ## 활동 중
 - [Github](http://github.com/chorr)
-- [Instagram](http://instagram.com/chorr)
 - [Lab.](http://lab.chorr.net)
 
 ## 기술관련
